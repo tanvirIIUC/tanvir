@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviriiuc&label=Profile%20views&color=0e75b6&style=flat" alt="tanviriiuc" /> </p>
 
-- 🌱 I’m currently learning **web development, react**
+- 🌱 I’m currently Working **web development, MEARN**
 
 - 👨‍💻 All of my projects are available at [https://soft-croquembouche-8cb170.netlify.app/](https://soft-croquembouche-8cb170.netlify.app/)
 
 - 💬 Ask me about **MEARN**
 
-- 📫 How to reach me **tanvir.hasan.sohan1@gmail.com**
+- 📫 How to reach me **tanvirhasansohan54@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tanvir-hasan-sohan-610800237/](https://www.linkedin.com/in/tanvir-hasan-sohan-610800237/)
 
