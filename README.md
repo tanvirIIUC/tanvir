@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Working **web development, MEARN**
 
-- 👨‍💻 All of my projects are available at [https://soft-croquembouche-8cb170.netlify.app/](https://soft-croquembouche-8cb170.netlify.app/)
+- 👨‍💻 All of my projects are available at [Live link](https://sohan-portfolio-475ee.web.app/)
 
 - 💬 Ask me about **MEARN**
 
